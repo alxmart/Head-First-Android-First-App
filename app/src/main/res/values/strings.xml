@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My First App</string>
+    <string name="centralText">Head First Android 3rd Edition</string>
 </resources>
